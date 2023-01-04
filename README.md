@@ -1,0 +1,2 @@
+# RWPodSpecsTest
+make Cocoapod Test
